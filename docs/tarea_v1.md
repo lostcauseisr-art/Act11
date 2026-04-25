@@ -1,4 +1,4 @@
-quiero que realices lo siguiente
+
 
 Guys, this week's activity consists of creating an authentication system using the Laravel Breeze package. You should:
 
